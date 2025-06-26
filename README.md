@@ -1,3 +1,3 @@
-# homeworks
+# test-gallery
 
-This is my homework from goit course
+This is test-gallery
